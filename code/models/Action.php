@@ -3,7 +3,7 @@
  * Action
  *
  * @package silverstripe
- * @subpackage mysite
+ * @subpackage silverstripe-actions
  */
 class Action extends Link
 {

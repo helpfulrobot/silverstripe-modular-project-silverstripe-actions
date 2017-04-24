@@ -5,7 +5,7 @@
  * page if not defined in the object itself.
  *
  * @package silverstripe
- * @subpackage mysite
+ * @subpackage silverstripe-actions
  */
 class ActionSiteTreeExtension extends DataExtension
 {
