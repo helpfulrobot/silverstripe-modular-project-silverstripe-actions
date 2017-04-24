@@ -1,0 +1,27 @@
+{
+  "name": "silverstripe-modular-project/silverstripe-actions",
+  "description": "",
+  "type": "silverstripe-module",
+  "license": "BSD-3-Clause",
+  "authors": [
+    {
+      "name": "Gorrie Coe",
+      "email": "gorriecoe@gmail.com"
+    }
+  ],
+  "keywords": [
+    "silverstripe",
+    "modular"
+  ],
+  "homepage": "http://github.com/silverstripe-modular-project/silverstripe-actions",
+  "require":
+  {
+    "php": ">=5.3.2",
+    "silverstripe/framework": "^3.5",
+    "silverstripe/cms": "^3.5",
+    "silverstripe-modular-project/silverstripe-links": "^1.0.0"
+  },
+  "extra": {
+    "installer-name": "actions"
+  }
+}

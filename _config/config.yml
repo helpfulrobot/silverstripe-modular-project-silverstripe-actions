@@ -1,0 +1,9 @@
+---
+Name: silverstripe-actions
+After:
+  - 'framework/*'
+  - 'cms/*'
+---
+SiteTree:
+  extensions:
+    - ActionSiteTreeExtension
